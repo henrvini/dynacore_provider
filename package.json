@@ -1,0 +1,16 @@
+{
+    "name": "dynacore_provider",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "socket.io-client": "^4.7.5"
+    }
+}
